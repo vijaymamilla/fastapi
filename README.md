@@ -25,3 +25,6 @@ docker ps -la
 
 
 Swagger UI - http://localhost:8000/docs 
+
+Stop container
+docker stop apicontainer
